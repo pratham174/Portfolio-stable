@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       easing: "ease-in-out", // Smooth transition
     });
   });
+  //ok
   AOS.init({
     duration: 1000, // Animation duration (in milliseconds)
     easing: 'ease-in-out', // Easing type
